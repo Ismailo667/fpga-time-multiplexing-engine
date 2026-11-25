@@ -1,0 +1,9 @@
+# Vivado / Xilinx
+*.jou
+*.log
+.Xil/
+*.bit
+*.bin
+*.ltx
+vivado*/
+.cache/
